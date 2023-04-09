@@ -60,7 +60,7 @@ class _FlutterScreenState extends State<FlutterScreen> {
     context,
     MaterialPageRoute(builder: (context) => const BirincikonuScreen()));
   },
-    child: const Text('FONKSİYONLAR',
+    child: const Text('FLUTTER TEMEL BİLGİLER',
     style: TextStyle(fontFamily:'Kalam'),
     ),
 
@@ -81,7 +81,7 @@ class _FlutterScreenState extends State<FlutterScreen> {
     MaterialPageRoute(builder: (context) => const FonksiyonScreen()),
     );
     },
-    child: const Text('FONKSİYONLAR',
+    child: const Text('DEĞİŞKENLER VE VERİ TİPLERİ',
         style: TextStyle(fontFamily:'Kalam'),
     ),
     ),
